@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#4FB2FF"/>
+    <stop offset="0.5" stop-color="#4C6BFF"/>
+    <stop offset="1" stop-color="#6B3FF2"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.22" cy="0.12" r="0.75">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.30"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="cloud" gradientUnits="userSpaceOnUse" x1="0" y1="14" x2="0" y2="47">
+    <stop offset="0" stop-color="#FFFFFF"/>
+    <stop offset="0.65" stop-color="#FFFFFF"/>
+    <stop offset="1" stop-color="#E3E9FF"/>
+  </linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+    <feDropShadow dx="0" dy="2.2" stdDeviation="2.2" flood-color="#1E1470" flood-opacity="0.35"/>
+  </filter></defs><rect width="64" height="64" rx="15" fill="url(#bg)"/><rect width="64" height="64" rx="15" fill="url(#glow)"/><g transform="translate(32 33.272) scale(1.06) translate(-32 -30.5)"><g fill="url(#cloud)" ><circle cx="20" cy="36" r="10"/><circle cx="31" cy="27" r="13"/><circle cx="44" cy="34" r="10"/><rect x="12" y="34" width="41" height="13" rx="6.5"/></g>
+  <ellipse cx="26" cy="32" rx="2.6" ry="3.3" fill="#1B1F2A"/>
+  <ellipse cx="38" cy="32" rx="2.6" ry="3.3" fill="#1B1F2A"/>
+  <circle cx="26.9" cy="30.9" r="0.95" fill="#fff"/>
+  <circle cx="38.9" cy="30.9" r="0.95" fill="#fff"/>
+  <circle cx="21" cy="37" r="2.4" fill="#FFB8CB"/>
+  <circle cx="43" cy="37" r="2.4" fill="#FFB8CB"/>
+  <path d="M28.6 37.2 H35.4 Q35 40.6 32 40.6 Q29 40.6 28.6 37.2 Z" fill="#1B1F2A" stroke="#1B1F2A" stroke-width="0.6" stroke-linejoin="round"/>
+  <path d="M30.4 39.6 Q32 38.7 33.6 39.6 Q32.9 40.3 32 40.3 Q31.1 40.3 30.4 39.6 Z" fill="#FF7E9C"/></g></svg>
