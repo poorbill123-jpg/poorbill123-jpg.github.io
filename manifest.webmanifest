@@ -1,13 +1,13 @@
 {
   "name": "Breezy",
   "short_name": "Breezy",
-  "description": "Quit vaping slowly, step by step.",
+  "description": "A 30-day plan to quit vaping.",
   "start_url": "/app/",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#FFFFFF",
-  "theme_color": "#4C6BFF",
+  "background_color": "#EEF5FF",
+  "theme_color": "#0F6BF0",
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
