@@ -14,6 +14,7 @@
     { "src": "/app/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ],
   "shortcuts": [
+    { "name": "Log one", "short_name": "Log one", "url": "/app/log", "icons": [{ "src": "/app/icon-192.png", "sizes": "192x192" }] },
     { "name": "Quick view", "short_name": "Quick view", "url": "/app/quick", "icons": [{ "src": "/app/icon-192.png", "sizes": "192x192" }] },
     { "name": "SOS", "short_name": "SOS", "url": "/app/sos", "icons": [{ "src": "/app/icon-192.png", "sizes": "192x192" }] }
   ]

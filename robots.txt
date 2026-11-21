@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://poorbill123-jpg.github.io/sitemap.xml
